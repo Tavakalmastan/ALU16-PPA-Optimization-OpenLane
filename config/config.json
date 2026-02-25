@@ -1,0 +1,22 @@
+{
+  "DESIGN_NAME": "alu16",
+  "VERILOG_FILES": "dir::rtl/alu16.v",
+  "CLOCK_PORT": "",
+  "CLOCK_NET": "",
+  "CLOCK_PERIOD": 11,
+
+  "FP_CORE_UTIL": 50,
+  "FP_ASPECT_RATIO": 1.0,
+
+  "PL_TARGET_DENSITY": 0.60,
+
+  "SYNTH_STRATEGY": "DELAY 2",
+
+  "MAX_FANOUT_CONSTRAINT": 10,
+
+  "RUN_HEURISTIC_DIODE_INSERTION": 0,
+
+  "GRT_REPAIR_ANTENNAS": 1,
+
+  "STD_CELL_LIBRARY": "sky130_fd_sc_hd"
+}
