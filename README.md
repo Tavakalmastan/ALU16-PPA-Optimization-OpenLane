@@ -6,7 +6,17 @@ This project demonstrates a complete **RTL-to-GDSII ASIC physical design flow** 
 
 - OpenLane  
 - OpenROAD  
-- Sky130 HD Standard Cell Library  
+- Sky130 HD Standard Cell Library
+  
+## 📊 Final PPA Summary
+
+| Metric | Value |
+|--------|-------|
+| Technology | Sky130 |
+| Clock Period | 11 ns |
+| Worst Slack (WNS) | +1.93 ns |
+| Timing Status | ✅ MET |
+| Flow | OpenLane RTL-to-GDS |
 
 ### Objective
 
