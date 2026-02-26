@@ -8,7 +8,7 @@ This project demonstrates a complete **RTL-to-GDSII ASIC physical design flow** 
 - OpenROAD  
 - Sky130 HD Standard Cell Library
   
-## 📊 Final PPA Summary
+## 📊 Final PPA Summary (Post-Route Signoff)
 
 | Metric | Value |
 |--------|-------|
