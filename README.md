@@ -153,3 +153,11 @@ Timing Status: MET
 
 ![Timing Report](timing_report.png)
 
+## 📷 Final GDS Layout (Post-Route)
+
+### Full Layout View
+![Full Layout](layout_full.png)
+
+### Routing Detail View
+![Routing Detail](layout_routing.png)
+
