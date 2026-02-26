@@ -144,3 +144,12 @@ This project demonstrates a realistic backend ASIC workflow and quantitatively i
 ## 📬 Contact
 
 Open to discussions on backend physical design, STA, and PPA optimization.
+
+## ⏱️ Post-Route Timing Report
+
+Clock Period: 11 ns  
+Worst Slack (WNS): +1.93 ns  
+Timing Status: MET  
+
+![Timing Report](timing_report.png)
+
