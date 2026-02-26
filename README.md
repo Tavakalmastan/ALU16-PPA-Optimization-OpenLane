@@ -17,7 +17,7 @@ This project demonstrates a complete **RTL-to-GDSII ASIC physical design flow** 
 | Worst Slack (WNS) | +1.93 ns |
 | Timing Status | ✅ MET |
 | Flow | OpenLane RTL-to-GDS |
-
+All setup timing constraints are met at 11 ns with positive slack under typical corner analysis.
 ### Objective
 
 🔍 Perform quantitative **Power-Performance-Area (PPA)** characterization and analyze trade-offs under different clock constraints and synthesis strategies.
